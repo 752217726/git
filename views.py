@@ -4,3 +4,4 @@ This is my third view
 This is my four view
 This is my five view
 This is my six view
+This is my seven view
